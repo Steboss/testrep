@@ -1,2 +1,4 @@
 Branch_01 Readme
 this is the branch_01
+created: git chekcout -b branch_01 master  in master
+and pushed: git push origin branc_01

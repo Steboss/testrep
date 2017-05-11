@@ -1,2 +1,4 @@
-Branch_01 Readme
-this is the branch_01
+Branch_02 Readme
+this is the branch_02
+created with  git branch branch_02   in branch_01
+switched: git checkout branch_02
